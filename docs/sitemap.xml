@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://grokify.github.io/saviynt-jars/</loc>
+         <lastmod>2024-09-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/saviynt-jars/connector-jar/</loc>
+         <lastmod>2024-09-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/saviynt-jars/custom-action_user-update-rule_example-1/</loc>
+         <lastmod>2024-09-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
